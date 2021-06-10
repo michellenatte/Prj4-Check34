@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body {
+    background-image:url("../images/background.jpg");
+	margin: 0; padding: 0; border: 0; font-size: 100%;
+}
+
+.class-1 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 2;
+    font-weight: 900;
+	font-family: 'Padauk', sans-serif;}
+
+.class-2 {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    padding-right: 40px;
+	background-color: white
+}
+
+
+.my-container {
+	padding: 5px;
+	border: 5px solid grey;
+	background-color: aliceblue;
+		
+}
+#my-id {
+	color: blue;
+	background-color: aliceblue;
+}
+
+.myheader {
+    background-color: navy;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+    background-image: url("../images/flag.jpg");	
+	width:auto;
+	height: 150px;
+}
+
+.jaja {
+	text-align: center;
+	color: beige;
+	font-size: 25px;
+	background-color: black;
+}
+
+.my-container1 {
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.myfooter {
+	background-color: black;
+	height: 50px;
+	color: aliceblue;
+	text-align: center;
+}
